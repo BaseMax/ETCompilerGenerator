@@ -1,5 +1,6 @@
 # ET Compiler Generator
 
+A tiny and old version of ONE(old name: ET) compiler written in c and generate c code as bytecode to build executable output.
 
 ### Stages
 
