@@ -1,5 +1,3 @@
-
-
 LIB_SOURCES=$(wildcard */*.*.c  */*.c *.c *.*.c)
 LIB_SOURCES=
 LANG_SOURCES=parser.c lexer.c main.c kernel.c
@@ -35,4 +33,3 @@ compile:
 	@gcc temp.c -o temp
 	@./temp
 	@#rm temp
-

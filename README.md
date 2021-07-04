@@ -1,8 +1,8 @@
 # ET Compiler Generator
 
-A tiny and old version of ONE(old name: ET) compiler written in c and generate c code as bytecode to build executable output.
+A tiny and old version of `ONE`(old name: `ET`) compiler written in C that generates C code as bytecode to build executable output.
 
-### Stages
+## Stages
 
 - Lexer (Thanks to Flex)
 - Parser (Thanks to Bison)
